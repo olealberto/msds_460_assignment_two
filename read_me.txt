@@ -7,5 +7,5 @@ msds_460_critical_path_analysis.py
   contains code for linear program model
 Project Plan.xlsx
   contains alloted hours for each task in project as well as necessary dependencies
-visual graph
+dependency_network_diagram.png
   contains visual of tasks in project
